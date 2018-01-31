@@ -1,0 +1,9 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\Page 217\bin\Debug\Page 217.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\Page 217\bin\Debug\Page 217.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\Page 217\bin\Debug\Page 217.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\Page 217\obj\Debug\Page 217.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\Page 217\obj\Debug\Page_217.Form1.resources
+C:\Users\jh145216\AppData\Local\Temporary Projects\Page 217\obj\Debug\Page_217.Properties.Resources.resources
+C:\Users\jh145216\AppData\Local\Temporary Projects\Page 217\obj\Debug\Page 217.csproj.GenerateResource.Cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\Page 217\obj\Debug\Page 217.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\Page 217\obj\Debug\Page 217.pdb
