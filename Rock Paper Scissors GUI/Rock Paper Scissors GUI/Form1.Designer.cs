@@ -100,6 +100,7 @@
             this.Controls.Add(this.lblWinLoseDraw);
             this.Name = "Form1";
             this.Text = "Rock Paper Scissors GUI";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picRock)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picPaper)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picScissors)).EndInit();

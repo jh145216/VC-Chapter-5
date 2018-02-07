@@ -1,2 +1,10 @@
 C:\Users\jh145216\AppData\Local\Temporary Projects\Rock Paper Scissors GUI\bin\Debug\Rock Paper Scissors GUI.exe.config
 C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\bin\Debug\Rock Paper Scissors GUI.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\bin\Debug\Rock Paper Scissors GUI.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\bin\Debug\Rock Paper Scissors GUI.pdb
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\obj\Debug\Rock Paper Scissors GUI.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\obj\Debug\Rock_Paper_Scissors_GUI.Form1.resources
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\obj\Debug\Rock_Paper_Scissors_GUI.Properties.Resources.resources
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\obj\Debug\Rock Paper Scissors GUI.csproj.GenerateResource.Cache
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\obj\Debug\Rock Paper Scissors GUI.exe
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\obj\Debug\Rock Paper Scissors GUI.pdb
