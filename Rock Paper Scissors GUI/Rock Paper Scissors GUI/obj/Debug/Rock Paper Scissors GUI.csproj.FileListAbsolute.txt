@@ -1,1 +1,2 @@
 C:\Users\jh145216\AppData\Local\Temporary Projects\Rock Paper Scissors GUI\bin\Debug\Rock Paper Scissors GUI.exe.config
+C:\Users\jh145216\Desktop\Visual C#\VC-Chapter-5\Rock Paper Scissors GUI\Rock Paper Scissors GUI\bin\Debug\Rock Paper Scissors GUI.exe.config
